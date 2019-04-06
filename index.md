@@ -11,7 +11,8 @@ For Data Scientists with limited development experience who want to:
 
 **Bernat Garcia Larrosa**: Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
 
-**Tristana Sondon**:
+**Tristana Sondon**:  PhD in Computational Physics. Former Academic Researcher, has been working for the past 5 years in Management consulting on areas of Data Science for
+banking, retail and ecommerce companies. Currently is Data Science Lead in the area of Revenue Managment and Dynamic Pricing.
 
 **Aleix Ruiz de Villa**: PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. 
 
