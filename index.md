@@ -1,10 +1,20 @@
 # Who is it for?
 
-For Data Scientists with limited development experience who want to:
+Data Scientists with limited development experience who want to:
 - Become more independent from SW developers
 - Become better data scientists by becoming better SW engineers
 - Understand methodologies and processes to develop models at scale
 - Adopt techniques and processes to better work in multidisciplinary teams
+
+# What you are going to learn?
+
+We are going to work with many different components necessary to put models into production
+- How to work with cloud technologies
+- Data preprocessing pipelines
+- Deploying scikit and tensorflow models in production
+- Best practices
+
+In these lessons, we are going to introduce technologies such as Git, Google Cloud Platform, Luigi, Docker, Tensorflow Serving, ... 
 
 
 # Teachers
@@ -18,6 +28,7 @@ banking, retail and ecommerce companies. Currently is Data Science Lead in the a
 
 **Arnau Tibau Puig**: PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
 
+
 # Dates and Location
 
 The course (16h in total) will be held in Barcelona on:
@@ -25,7 +36,6 @@ The course (16h in total) will be held in Barcelona on:
 - Saturday June 1st 10-14h
 - Friday June 7th 17-21h 
 - Saturday 8th 10-14h
-
 
 
 # Requirements (Important)
@@ -37,7 +47,9 @@ Students whould have some experience with:
 
 Students must bring a laptop with
 - Linux/MacOS 
+- Python 3.6
 - You favorite IDE
+
 
 # Registration
 
