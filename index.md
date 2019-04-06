@@ -1,11 +1,3 @@
-# Who is it for?
-
-Data Scientists with limited development experience who want to:
-- Become more independent from SW developers
-- Become better data scientists by becoming better SW engineers
-- Understand methodologies and processes to develop models at scale
-- Adopt techniques and processes to better work in multidisciplinary teams
-
 # What you are going to learn?
 
 We are going to work with many different components necessary to put models into production
@@ -15,6 +7,15 @@ We are going to work with many different components necessary to put models into
 - Best practices
 
 In these lessons, we are going to introduce and use technologies such as [Git](https://git-scm.com/), [Google Cloud Platform](https://cloud.google.com/), [Luigi](https://luigi.readthedocs.io/en/stable/), [Docker](https://www.docker.com/), [Keras](https://keras.io/), [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving), ... 
+
+
+# Who is it for?
+
+Data Scientists with limited development experience who want to:
+- Become more independent from SW developers
+- Become better data scientists by becoming better SW engineers
+- Understand methodologies and processes to develop models at scale
+- Adopt techniques and processes to better work in multidisciplinary teams
 
 
 # Teachers
