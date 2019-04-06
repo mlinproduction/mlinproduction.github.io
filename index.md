@@ -14,19 +14,19 @@ We are going to work with many different components necessary to put models into
 - Deploying scikit learn and tensorflow models in production
 - Best practices
 
-In these lessons, we are going to introduce technologies such as Git, Google Cloud Platform, Luigi, Docker, Tensorflow Serving, ... 
+In these lessons, we are going to introduce and use technologies such as [Git](https://git-scm.com/), [Google Cloud Platform](https://cloud.google.com/), [Luigi](https://luigi.readthedocs.io/en/stable/), [Docker](https://www.docker.com/), [Keras](https://keras.io/), [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving), ... 
 
 
 # Teachers
 
-**Bernat Garcia Larrosa**: Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
+[**Bernat Garcia Larrosa**](https://www.linkedin.com/in/bernat-garcia-larrosa-9322869b/): Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
 
-**Tristana Sondon**:  PhD in Computational Physics. Former Academic Researcher, has been working for the past 5 years in Management consulting on areas of Data Science for
+[**Tristana Sondon**](https://www.linkedin.com/in/tristanasondon/):  PhD in Computational Physics. Former Academic Researcher, has been working for the past 5 years in Management consulting on areas of Data Science for
 banking, retail and ecommerce companies. Currently is Data Science Lead in the area of Revenue Managment and Dynamic Pricing.
 
-**Aleix Ruiz de Villa**: PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. 
+[**Aleix Ruiz de Villa**](https://www.linkedin.com/in/aleixr/): PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. 
 
-**Arnau Tibau Puig**: PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
+[**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
 
 
 # Dates and Location
