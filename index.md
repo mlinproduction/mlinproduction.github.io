@@ -17,9 +17,9 @@ For Data Scientists with limited development experience who want to:
 
 **Arnau Tibau Puig**: PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
 
-# Dates
+# Dates and Location
 
-The course (16h in total) will be held on:
+The course (16h in total) will be held in Barcelona on:
 - Friday May 31st 17-21h
 - Saturday June 1st 10-14h
 - Friday June 7th 17-21h 
