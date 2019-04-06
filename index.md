@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Machine learning in Production
 
-You can use the [editor on GitHub](https://github.com/mlinproduction/mlinproduction.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For Data Scientists with limited development experience who want to:
+- Become more independent from SW developers
+- Become better data scientists by becoming better SW engineers
+- Understand methodologies and processes to develop models at scale
+- Adopt techniques and processes to better work in multidisciplinary teams
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Teachers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bernat Garcia Larrosa: Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
 
-```markdown
-Syntax highlighted code block
+Tristana Sondon:
 
-# Header 1
-## Header 2
-### Header 3
+Aleix Ruiz de Villa: PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. 
 
-- Bulleted
-- List
+Arnau Tibau Puig: PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
 
-1. Numbered
-2. List
+## Requirements (Important)
 
-**Bold** and _Italic_ and `Code` text
+Students whould have some experience with:
+- Machine Learning
+- Python
+- Unix command line tools 
 
-[Link](url) and ![Image](src)
-```
+Students must bring a laptop with
+- Linux/MacOS 
+- You favorite IDE
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlinproduction/mlinproduction.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
