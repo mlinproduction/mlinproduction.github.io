@@ -11,7 +11,7 @@ Data Scientists with limited development experience who want to:
 We are going to work with many different components necessary to put models into production
 - How to work with cloud technologies
 - Data preprocessing pipelines
-- Deploying scikit and tensorflow models in production
+- Deploying scikit learn and tensorflow models in production
 - Best practices
 
 In these lessons, we are going to introduce technologies such as Git, Google Cloud Platform, Luigi, Docker, Tensorflow Serving, ... 
