@@ -38,4 +38,13 @@ Students must bring a laptop with
 - Linux/MacOS 
 - You favorite IDE
 
+# Registration
+
+For attending to the course you need to fill in the following registration
+https://forms.gle/LWkXdaLKnwDjxcpZ7
+
+There is a limit of 20 people. In order to get an homogeneous level in the group, we will make a selection of the students.
+
+
+
 
