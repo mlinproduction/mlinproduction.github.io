@@ -54,8 +54,8 @@ Students must bring a laptop with
 
 # Registration
 
-For attending to the course you need to fill in the following registration
-https://forms.gle/LWkXdaLKnwDjxcpZ7
+For attending the course you need to fill [this form](https://forms.gle/LWkXdaLKnwDjxcpZ7)
+
 
 There is a limit of 20 people. In order to get an homogeneous level in the group, we will make a selection of the students.
 
