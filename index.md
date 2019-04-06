@@ -1,4 +1,4 @@
-## Machine learning in Production
+# Machine learning in Production
 
 For Data Scientists with limited development experience who want to:
 - Become more independent from SW developers
@@ -7,17 +7,27 @@ For Data Scientists with limited development experience who want to:
 - Adopt techniques and processes to better work in multidisciplinary teams
 
 
-## Teachers
+# Teachers
 
-Bernat Garcia Larrosa: Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
+**Bernat Garcia Larrosa**: Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
 
-Tristana Sondon:
+**Tristana Sondon**:
 
-Aleix Ruiz de Villa: PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. 
+**Aleix Ruiz de Villa**: PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. 
 
-Arnau Tibau Puig: PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
+**Arnau Tibau Puig**: PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
 
-## Requirements (Important)
+# Dates
+
+The course (16h in total) will be held on:
+- Friday May 31st 17-21h
+- Saturday June 1st 10-14h
+- Friday June 7th 17-21h 
+- Saturday 8th 10-14h
+
+
+
+# Requirements (Important)
 
 Students whould have some experience with:
 - Machine Learning
