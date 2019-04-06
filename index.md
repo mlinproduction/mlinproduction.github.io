@@ -1,4 +1,4 @@
-# Machine learning in Production
+# Who is it for?
 
 For Data Scientists with limited development experience who want to:
 - Become more independent from SW developers
