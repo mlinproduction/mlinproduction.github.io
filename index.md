@@ -62,7 +62,7 @@ Price: 350 euros per person
 
 BaDaSS members have 20% discount
 
-> Organized by [BaDaSS](https://badass.cat)
+> In collaboration with [BaDaSS](https://badass.cat)
 
 
 
