@@ -56,9 +56,12 @@ Students must bring a laptop with
 
 For attending the course you need to fill [this form](https://forms.gle/LWkXdaLKnwDjxcpZ7)
 
-
 There is a limit of 20 people. In order to get an homogeneous level in the group, we will make a selection of the students.
 
+Price: 350 euros per person
+BaDaSS members have 20% discount
+
+> Organized by [BaDaSS](https://badass.cat)
 
 
 
