@@ -1,17 +1,21 @@
-# What you are going to learn?
+# What will you learn?
 
-We are going to work with many different components necessary to put models into production
-- How to work with cloud technologies
-- Data preprocessing pipelines
-- Deploying scikit learn and tensorflow models in production
-- Best practices
+This course will introduce several tools that a succesful Data Scientist needs to master in order to maximize her impact:
+- Working with cloud platforms
+- Developing data processing pipelines
+- Deploying scikit-learn and tensorflow models in production
+- Good development practices for Data Scientists
 
-In these lessons, we are going to introduce and use technologies such as [Git](https://git-scm.com/), [Google Cloud Platform](https://cloud.google.com/), [Luigi](https://luigi.readthedocs.io/en/stable/), [Docker](https://www.docker.com/), [Keras](https://keras.io/), [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving), ... 
+The course will consist of mostly practical hands-on sessions. A more detailed syllabus and content will be available soon.
+
+# Technologies used
+
+[Git](https://git-scm.com/), conda/virtual environments, [Jupyter](https://jupyter.org/), [DVC](https://dvc.org/), [Google Cloud Platform](https://cloud.google.com/), [Luigi](https://luigi.readthedocs.io/en/stable/), [Docker](https://www.docker.com/), [Keras](https://keras.io/), [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving), ... 
 
 
-# Who is it for?
+# Intended audience
 
-Data Scientists with limited development experience who want to:
+This course is designed for Data Scientists with some development experience who want to:
 - Become more independent from SW developers
 - Become better data scientists by becoming better SW engineers
 - Understand methodologies and processes to develop models at scale
@@ -38,29 +42,29 @@ The course (16h in total) will be held in Barcelona on:
 - Friday June 7th 17-21h 
 - Saturday 8th 10-14h
 
+The course's location will be anounced soon.
 
 # Requirements (Important)
 
-Students whould have some experience with:
-- Machine Learning
+Students should have some experience with:
+- Machine Learning and predictive modeling
 - Python
 - Unix command line tools 
 
 Students must bring a laptop with
 - Linux/MacOS 
 - Python 3.6
-- You favorite IDE
-
+- You favorite IDE (examples: vim, Sublime, PyCharm... emacs?)
 
 # Registration
 
-For attending the course you need to fill [this form](https://forms.gle/LWkXdaLKnwDjxcpZ7)
+Please register via [this form](https://forms.gle/LWkXdaLKnwDjxcpZ7)
 
-There is a limit of 20 people. In order to get an homogeneous level in the group, we will make a selection of the students.
+The class size will be limited to 20 people. We reserve the right to cancel the course if there are less than X registrations. While we will try to accomodate everyone interested, and in order to maximize the chances of a succesful learning experience, we also reserve the right to select students based on their experience level. 
 
-Price: 350 euros per person
+*Price*: 350 euros per person
 
-BaDaSS members have 20% discount
+BaDaSS members enjoy a 20% discount.
 
 > In collaboration with [BaDaSS](https://badass.cat)
 
