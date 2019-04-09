@@ -54,13 +54,13 @@ Students should have some experience with:
 Students must bring a laptop with
 - Linux/MacOS 
 - Python 3.6
-- You favorite IDE (examples: vim, Sublime, PyCharm... emacs?)
+- You favorite IDE (examples: Vim, Sublime, PyCharm, Emacs...)
 
 # Registration
 
 Please register via [this form](https://forms.gle/LWkXdaLKnwDjxcpZ7)
 
-The class size will be limited to 20 people. We reserve the right to cancel the course if there are less than X registrations. While we will try to accomodate everyone interested, and in order to maximize the chances of a succesful learning experience, we also reserve the right to select students based on their experience level. 
+The class size will be limited to 20 people. While we will try to accomodate everyone interested, we also reserve the right to select students based on their experience level, in order to maximize the chances of a succesful learning experience (in groups with similar knowledge). 
 
 *Price*: 350 euros per person
 
