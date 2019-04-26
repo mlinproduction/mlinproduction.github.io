@@ -60,6 +60,8 @@ Students must bring a laptop with
 
 Please register via [this form](https://forms.gle/LWkXdaLKnwDjxcpZ7)
 
+Registration closes on Sunday May 26th.
+
 The class size will be limited to 20 people. While we will try to accomodate everyone interested, we also reserve the right to select students based on their experience level, in order to maximize the chances of a succesful learning experience (in groups with similar knowledge). 
 
 *Price*: 350 euros per person
