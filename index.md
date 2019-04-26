@@ -6,7 +6,7 @@ This course will introduce several tools that a succesful Data Scientist needs t
 - Deploying scikit-learn and tensorflow models in production
 - Good development practices for Data Scientists
 
-The course will consist of mostly practical hands-on sessions. A more detailed syllabus and content will be available soon.
+The course will consist of mostly practical hands-on sessions. 
 
 # Technologies used
 
