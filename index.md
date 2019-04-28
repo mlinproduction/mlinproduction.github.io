@@ -72,8 +72,6 @@ Contact: bcn.mlinproduction@gmail.com
 
 In collaboration with [BaDaSS](https://badass.cat)
 
-![](logo.png | width=10)
-
 Space provided by mVenturesBcn
 
 ![](Logo Collider+Capital-01.png)
