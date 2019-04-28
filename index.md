@@ -47,7 +47,7 @@ The course's location will be anounced soon.
 # Requirements (Important)
 
 Students should have some experience with:
-- Machine Learning and predictive modeling
+- Machine Learning 
 - Python
 - Unix command line tools 
 
