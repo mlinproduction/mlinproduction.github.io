@@ -70,6 +70,8 @@ BaDaSS members enjoy a 20% discount.
 
 Contact: bcn.mlinproduction@gmail.com
 
+## Collaborations
+
 In collaboration with [BaDaSS](https://badass.cat)
 
 Space provided by [mVenturesBcn](https://thecollider.tech/)
