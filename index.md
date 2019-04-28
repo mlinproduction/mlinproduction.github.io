@@ -68,13 +68,15 @@ The class size will be limited to 20 people. While we will try to accomodate eve
 
 BaDaSS members enjoy a 20% discount.
 
-> Contact: bcn.mlinproduction@gmail.com
+Contact: bcn.mlinproduction@gmail.com
 
-> In collaboration with [BaDaSS](https://badass.cat)
+In collaboration with [BaDaSS](https://badass.cat)
 
-![aa](logo.png)
+![](logo.png)
 
-> Space provided by mVenturesBcn
+Space provided by mVenturesBcn
+
+![](Logo Collider+Capital-01.png)
 
 
 
