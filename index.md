@@ -72,9 +72,7 @@ Contact: bcn.mlinproduction@gmail.com
 
 In collaboration with [BaDaSS](https://badass.cat)
 
-<img src="logo.png" width=20>
-
-![](logo.png)
+![](logo.png | width=10)
 
 Space provided by mVenturesBcn
 
