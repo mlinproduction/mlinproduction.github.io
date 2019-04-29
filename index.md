@@ -42,7 +42,7 @@ The course (16h in total) will be held in Barcelona on:
 - Friday June 7th 17-21h 
 - Saturday 8th 10-14h
 
-*Venue*: https://barcelonatechcity.com/
+*Venue*: https://thecollider.tech/ at [Pier 01 Barcelona Tech City](https://goo.gl/maps/TA5ZzCmhug1PaoHKA)
 
 # Requirements (Important)
 
