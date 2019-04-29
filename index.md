@@ -42,7 +42,7 @@ The course (16h in total) will be held in Barcelona on:
 - Friday June 7th 17-21h 
 - Saturday 8th 10-14h
 
-The course's location will be anounced soon.
+*Venue*: https://barcelonatechcity.com/
 
 # Requirements (Important)
 
@@ -68,7 +68,11 @@ The class size will be limited to 20 people. While we will try to accomodate eve
 
 BaDaSS members enjoy a 20% discount.
 
+*Language*: English
+
 *Contact*: bcn.mlinproduction@gmail.com
+
+
 
 ## Collaborations
 
