@@ -78,10 +78,6 @@ BaDaSS members enjoy a 20% discount.
 
 In collaboration with [BaDaSS](https://badass.cat)
 
-Space provided by [mVenturesBcn](https://thecollider.tech/)
-
-![](Logo Collider+Capital-01.png)
-
 
 
 
