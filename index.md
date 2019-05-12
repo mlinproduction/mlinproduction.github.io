@@ -8,10 +8,43 @@ This course will introduce several tools that a succesful Data Scientist needs t
 
 The course will consist of mostly practical hands-on sessions. 
 
+# Syllabus
+
+* Reproducible Data Science
+  * What do we mean by reproducibility and why it matters
+  * Tools & practices for reproducible Data Science
+	  * Version Control
+	  * Data Science workflows as DAGs
+	  * Environment management
+	  * Developing modular code
+* Luigi
+  * General introduction
+  * Python classes
+  * Introduction to Luigi
+  * Targets
+  * Tasks
+  * Execution
+  * Customizing targets and tasks
+  * BigQuery workflows
+  * Best practices
+  * A taste of Airflow
+* Google Cloud Platform (GCP)
+  * Introduction to GCP
+  * Google Compute Engine
+  * BigQuery
+  * Building dashboards with Cloud Datalab
+  * Building models with BigQuery ML
+  * Cloud ML Engine
+* Serving models
+  * The problem of serving machine learning models
+  * Putting everything inside a Docker container
+  * Serving a Tensorflow or ScikitLearn model in a Flask app
+  * Alternatives using GCP
+  * Best practices
+
 # Technologies used
 
 [Git](https://git-scm.com/), conda/virtual environments, [Jupyter](https://jupyter.org/), [DVC](https://dvc.org/), [Google Cloud Platform](https://cloud.google.com/), [Luigi](https://luigi.readthedocs.io/en/stable/), [Docker](https://www.docker.com/), [Keras](https://keras.io/), [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving), ... 
-
 
 # Intended audience
 
@@ -42,7 +75,7 @@ The course (16h in total) will be held in Barcelona on:
 - Friday June 7th 17-21h 
 - Saturday 8th 10-14h
 
-*Venue*: https://thecollider.tech/ at [Pier 01 Barcelona Tech City](https://goo.gl/maps/TA5ZzCmhug1PaoHKA)
+*Venue*: TBD
 
 # Requirements (Important)
 
@@ -71,8 +104,6 @@ BaDaSS members enjoy a 20% discount.
 *Language*: English
 
 *Contact*: bcn.mlinproduction@gmail.com
-
-
 
 ## Collaborations
 
