@@ -54,7 +54,6 @@ This course is designed for Data Scientists with some development experience who
 - Understand methodologies and processes to develop models at scale
 - Adopt techniques and processes to better work in multidisciplinary teams
 
-
 # Teachers
 
 [**Bernat Garcia Larrosa**](https://www.linkedin.com/in/bernat-garcia-larrosa-9322869b/): Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
@@ -67,7 +66,9 @@ banking, retail and ecommerce companies. Currently is Data Science Lead in the a
 [**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
 
 
-# Dates and Location
+# Schedule, Dates and Location
+
+![](schedule_v2.png)
 
 The course (16h in total) will be held in Barcelona on:
 - Friday May 31st 17-21h
@@ -75,7 +76,8 @@ The course (16h in total) will be held in Barcelona on:
 - Friday June 7th 17-21h 
 - Saturday 8th 10-14h
 
-*Venue*: TBD
+**Venue**: [Llibreria Laie](https://goo.gl/maps/bLJyseumEjuD5oaHA), 
+Carrer de Pau Claris, 85, 08010 Barcelona
 
 # Requirements (Important)
 
@@ -86,8 +88,11 @@ Students should have some experience with:
 
 Students must bring a laptop with
 - Linux/MacOS 
-- Python 3.6
 - You favorite IDE (examples: Vim, Sublime, PyCharm, Emacs...)
+- A configured environment as [explained here](env_setup/index.md)
+
+**Important**: Please follow the [environment setup instructions]((env_setup/index.md))
+prior to the beginning of the course to ensure a smooth learning experience.
 
 # Registration
 
