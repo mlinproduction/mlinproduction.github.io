@@ -91,7 +91,7 @@ Students must bring a laptop with
 - You favorite IDE (examples: Vim, Sublime, PyCharm, Emacs...)
 - A configured environment as [explained here](env_setup/index.md)
 
-**Important**: Please follow the [environment setup instructions]((env_setup/index.md))
+**Important**: Please follow the [environment setup instructions](env_setup/index.md)
 prior to the beginning of the course to ensure a smooth learning experience.
 
 # Registration
