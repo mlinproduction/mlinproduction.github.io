@@ -69,3 +69,5 @@ whether the main libraries and tools can be imported correctly.
 conda activate ml_in_prod
 python env_test/env_test.py
 ```
+
+[.](env_setup.tar)
