@@ -28,7 +28,7 @@ In order to manage the different packages we will use during the course,
 we will create a conda environment from the provided configuration file:
 
 ```bash
-wget https://raw.githubusercontent.com/mlinproduction/mlinproduction.github.io/master/env_setup/env_setup.tar
+wget https://mlinproduction.github.io/env_setup/env_setup.tar
 tar -xvf env_setup.tar
 conda env create -f ml_in_prod_env.yml 
 ```
@@ -69,5 +69,3 @@ whether the main libraries and tools can be imported correctly.
 conda activate ml_in_prod
 python env_test/env_test.py
 ```
-
-[.](env_setup.tar)
