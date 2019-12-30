@@ -1,4 +1,37 @@
-# Most Machine Learning projects never see the light of day
+
+# Machine Learning in Production
+
+Do you feel like you or your company is not shipping Data Science projects 
+fast enough? Do your ML projects get stuck because there aren't available
+developers to bring them to production? Do DevOps and SWE conversations
+sound like chinese to you?
+
+Then this course may be for you. Join us to: 
+
+- Become more **independent** from Software Developers, DevOps and SysAdmins
+- Become better Data Scientists by becoming better **Software Engineers**
+- Understand **methodologies and processes** to develop models at scale
+- Adopt techniques and processes to better work in multidisciplinary teams
+
+
+<p align="center">
+<link href="https://d2poexpdc5y9vj.cloudfront.net/public/css/eventzilla-widget-button.css" rel="stylesheet" />
+<a id="btnpreview" class="ewb-large ezilla-widget-button ezilla-blue" href="https://events.eventzilla.net/e/machine-learning-in-production-feb-2020-2138781722">Register Now - February 2020</a>
+</p>    
+
+- [Most Machine Learning projects never see the light of day](#ml_dont_ship)
+  * [Data Science is hard to bring to production](#ds_is_hard)
+- [Join our course and get better at shipping Machine Learning models](#join-our-course-and-get-better-at-shipping-machine-learning-models)
+  * [2020 Syllabus [Tentative]](#2020-syllabus--tentative-)
+  * [Past editions](#past-editions)
+  * [Instructors](#instructors)
+  * [Schedule, Dates and Location](#schedule--dates-and-location)
+  * [Registration](#registration)
+  * [Requirements (Important)](#requirements--important-)
+ 
+ 
+     
+# Most Machine Learning projects never see the light of day <a name="ml_dont_ship"></a>
 
 With the advent of internet-scale data gathering, powerful big data platforms and new computing paradigms, 
 most companies have embraced the Big Data revolution first and its sibling, the AI revolution, later.  As a result, 
@@ -10,7 +43,7 @@ this huge investment paying off? Is my bright, PhD-holding, Data Science team de
 
 The sad answer is that in many cases, our Return on Investment is not great. And it is not necessarily our fault.
 
-## Data Science is hard to bring to production
+## Data Science is hard to bring to production <a name="ds_is_hard"></a>
 
 If you have been in the Data Science business for long enough, the following situation will likely sound familiar:
 
@@ -63,18 +96,10 @@ We organized a [June 2019 edition of this course](https://mlinproduction.github.
 100% of our post-course survey respondents said they would recommend it to a friend, and we have incorporated their suggestions
 on how to make it better for this 2020 edition.
 
-![alt text](./arnau_pic.jpeg | width=500)
+![alt text](./arnau_pic.jpeg)
 
-![alt text](./bernat_pic.jpeg | width=500)
+![alt text](./bernat_pic.jpeg)
 
-
-## Intended audience
-
-This course is designed for Data Scientists with some development experience who want to:
-- Become more independent from SW developers
-- Become better data scientists by becoming better SW engineers
-- Understand methodologies and processes to develop models at scale
-- Adopt techniques and processes to better work in multidisciplinary teams
 
 ## Instructors
 
@@ -100,7 +125,10 @@ The course (24h in total) will be held in Barcelona on:
 
 ## Registration
 
-[COMING SOON]
+<p align="center">
+<link href="https://d2poexpdc5y9vj.cloudfront.net/public/css/eventzilla-widget-button.css" rel="stylesheet" />
+<a id="btnpreview" class="ewb-large ezilla-widget-button ezilla-blue" href="https://events.eventzilla.net/e/machine-learning-in-production-feb-2020-2138781722">Register Now - February 2020</a>
+</p>   
 
 Registration closes on January 15th.
 
