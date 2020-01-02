@@ -111,19 +111,19 @@ banking, retail and ecommerce companies. Currently is Data Science Lead in the a
 
 ## Registration information <a name="registration"></a>
 
-**Dates**: The 2020 edition of the training will be held in Barcelona on:
-- Friday February 7th 17-21h
-- Saturday February 8th 10-19h
-- Friday February 14th 17-21h
-- Saturday February 15th 10-19h
+**Dates**:
+- Friday February 7th, 2020, 17-21h
+- Saturday February 8th, 2020, 10-19h
+- Friday February 14th, 2020, 17-21h
+- Saturday February 15th,2020, 10-19h
 
 **Venue**: [Llibreria Laie](https://goo.gl/maps/bLJyseumEjuD5oaHA), C/ Pau Claris, 85, 08010 Barcelona
 
-*Registration Fee*: 750 euros per person
+**Registration Fee**: 750 euros per person
 
-*Language*: English
+**Language**: English
 
-*Contact*: bcn.mlinproduction@gmail.com
+**Contact**: bcn.mlinproduction@gmail.com
 
 <p align="center">
 <link href="https://d2poexpdc5y9vj.cloudfront.net/public/css/eventzilla-widget-button.css" rel="stylesheet" />
@@ -137,12 +137,12 @@ banking, retail and ecommerce companies. Currently is Data Science Lead in the a
 
 ## Requirements (Important!) <a name="requirements"></a>
 
-Students should have some experience with:
+Applicants should have some professional experience with:
 - Machine Learning 
 - Python
 - Unix command line tools 
 
-Students must bring a laptop with
+Students must bring a laptop equipped with:
 - Linux/MacOS 
 - You favorite IDE (examples: Vim, Sublime, PyCharm, Emacs...)
 - A configured environment as [explained here](env_setup/index.md)
