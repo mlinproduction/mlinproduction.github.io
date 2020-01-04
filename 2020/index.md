@@ -1,20 +1,22 @@
 
 # Machine Learning in Production
 
-Do you feel like you or your company is not shipping Data Science projects 
+Do you feel like you or your company are not shipping Data Science projects 
 fast enough? Do your ML projects get stuck because there aren't available
 developers to bring them to production? Do DevOps and SWE conversations
-sound like chinese to you?
+sound like Klingon to you?
 
-Then this course may be for you! Join us to: 
+Then this course may be for you! 
 
-- Become more **autonomous** and rely less on other Software Developers, DevOps and SysAdmins
+Join us to: 
+
+- Become **more autonomous** and rely less on other Software Developers, DevOps and SysAdmins
 - Become better Data Scientists by becoming better **Software Developers**
 - Learn **methodologies, tools and processes** to ship models at scale
 
 Our training offers:
-- 24 hour of mostly hands-on training
-- Low (5:1) student to instructor ratio
+- 24-hour of mostly hands-on training
+- A low (5:1) student to instructor ratio
 - Access to proprietary training materials
 - 2 lunch meals to feed your hungry neurons!
 
@@ -24,8 +26,6 @@ Our training offers:
 </p>    
 
 - [Most Machine Learning projects never see the light of day](#ml_dont_ship)
-  * [Data Science is hard to bring to production](#ds_is_hard)
-  * [Get better at shipping Machine Learning models](#ship)
 - [Our training](#our-training)
   * [Syllabus and schedule [Tentative]](#syllabus)
   * [Instructors](#instructors)
@@ -36,9 +36,8 @@ Our training offers:
 # Most Machine Learning projects never see the light of day <a name="ml_dont_ship"></a>
 
 With the advent of internet-scale data gathering, powerful big data platforms and new computing paradigms, 
-most companies have embraced the Big Data revolution first and its sibling, the AI revolution, later.  As a result, 
-billions have been invested into tools, services and teams to build all-mighty, data-powered 
-features and services, in the hope of getting a competitive edge ahead of slower competitors. 
+most companies have embraced the Big Data and AI revolutions. As a result, billions have been invested to build all-mighty, 
+data-powered features and services, in the hope of getting a competitive edge ahead of slower competitors. 
 
 But alas, now that the dust is settling, a growing number of companies are starting to ponder: is 
 this huge investment paying off? Is my bright, PhD-holding, Data Science team delivering on its promises?
@@ -99,14 +98,19 @@ top-tier internet companies like edreams, letgo or La Vanguardia.
 	
 ## Instructors <a name="instructors"></a>
 
-[**Bernat Garcia Larrosa**](https://www.linkedin.com/in/bernat-garcia-larrosa-9322869b/): Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
+[**Bernat Garcia Larrosa**](https://www.linkedin.com/in/bernat-garcia-larrosa-9322869b/): Degree in Mathematics and Industrial Engineering. 
+Former Data Scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
 
-[**Tristana Sondon**](https://www.linkedin.com/in/tristanasondon/):  PhD in Computational Physics. Former Academic Researcher, has been working for the past 5 years in Management consulting on areas of Data Science for
-banking, retail and ecommerce companies. Currently is Data Science Lead in the area of Revenue Management and Dynamic Pricing.
+[**Aleix Ruiz de Villa**](https://www.linkedin.com/in/aleixr/): PhD in Mathematics. Founder of the Barcelona Data Science and Machine Learning 
+Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Former Head of Data Science at LaVanguardia.com, SCRM (Lidl) and Onna. 
+Currently a consultant specialising in causal inference projects.
 
-[**Aleix Ruiz de Villa**](https://www.linkedin.com/in/aleixr/): PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. Currently he is a consultant specialising in causal inference projects.
+[**Tristana Sondon**](https://www.linkedin.com/in/tristanasondon/):  PhD in Computational Physics. A former Academic Researcher, she has been working 
+for the past 5 years in Management consulting on areas of Data Science for banking, retail and ecommerce companies.
+ Currently a Data Science Lead in the area of Revenue Management and Dynamic Pricing.
 
-[**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
+[**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at 
+@WalmartLabs, Lead Data Scientist at Quantifind, both in the San Francisco Bay Area, CA. Current Head of Data Science at letgo, Barcelona.
 
 
 ## Registration information <a name="registration"></a>
