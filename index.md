@@ -17,7 +17,7 @@ Our training offers:
 - 24 hour of mostly hands-on training
 - Low (5:1) student to instructor ratio
 - Access to proprietary training materials
-- 2 lunch meals to feed your hungry neurons!
+- 2 lunch meals at Laie's Restaurant to feed your hungry neurons!
 
 <p align="center">
 <link href="https://d2poexpdc5y9vj.cloudfront.net/public/css/eventzilla-widget-button.css" rel="stylesheet" />
@@ -42,7 +42,7 @@ billions have been invested into tools, services and teams to build all-mighty, 
 features and services, in the hope of getting a competitive edge ahead of slower competitors. 
 
 But alas, now that the dust is settling, a growing number of companies are starting to ponder: is 
-this huge investment paying off? Is my bright, PhD-holding, Data Science team delivering on its promises?
+this huge investment paying off? Is my bright Data Science team delivering on its promises?
 
 The sad answer is that in many cases, our Return on Investment is not great. And it is not necessarily our fault.
 
@@ -73,7 +73,7 @@ for a few years. In our experience, the key elements for successful ML deploymen
 
 The course will consist of theory and practical hands-on sessions lead by our four instructors, with over 20 years of
 cumulative experience building and deploying Machine Learning models to demanding production environments at 
-top-tier internet companies like edreams, letgo or La Vanguardia.
+top-tier internet companies like edreams, letgo or La Vanguardia.com.
 
 # Our training <a name="our-training"></a>
 
@@ -105,7 +105,7 @@ top-tier internet companies like edreams, letgo or La Vanguardia.
 [**Tristana Sondon**](https://www.linkedin.com/in/tristanasondon/):  PhD in Computational Physics. Former Academic Researcher, has been working for the past 5 years in Management consulting on areas of Data Science for
 banking, retail and ecommerce companies. Currently is Data Science Lead in the area of Revenue Management and Dynamic Pricing.
 
-[**Aleix Ruiz de Villa**](https://www.linkedin.com/in/aleixr/): PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. Currently he is a consultant specialising in causal inference projects.
+[**Aleix Ruiz de Villa**](https://www.linkedin.com/in/aleixr/): PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. Currently he is Chief Data Science Officer at Stashify.io
 
 [**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
 
