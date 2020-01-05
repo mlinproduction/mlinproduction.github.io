@@ -1,92 +1,148 @@
-# What will you learn?
 
-This course will introduce several tools that a succesful Data Scientist needs to master in order to maximize her impact:
-- Working with cloud platforms
-- Developing data processing pipelines
-- Deploying scikit-learn and tensorflow models in production
-- Good development practices for Data Scientists
+# Machine Learning in Production
 
-The course will consist of mostly practical hands-on sessions. 
+Do you feel like you or your company is not shipping Data Science projects 
+fast enough? Do your ML projects get stuck because there aren't available
+developers to bring them to production? Do DevOps and SWE conversations
+sound like chinese to you?
 
-# Syllabus
+Then this course may be for you! Join us to: 
 
-* Reproducible Data Science
-  * What do we mean by reproducibility and why it matters
-  * Tools & practices for reproducible Data Science
-	  * Version Control
-	  * Data Science workflows as DAGs
-	  * Environment management
-	  * Developing modular code
-* Luigi
-  * General introduction
-  * Python classes
-  * Introduction to Luigi
-  * Targets
-  * Tasks
-  * Execution
-  * Customizing targets and tasks
-  * BigQuery workflows
-  * Best practices
-  * A taste of Airflow
-* Google Cloud Platform (GCP)
-  * Introduction to GCP
-  * Google Compute Engine
-  * BigQuery
-  * Building dashboards with Cloud Datalab
-  * Building models with BigQuery ML
-  * Cloud ML Engine
-* Serving models
-  * The problem of serving machine learning models
-  * Putting everything inside a Docker container
-  * Serving a Tensorflow or ScikitLearn model in a Flask app
-  * Alternatives using GCP
-  * Best practices
+- Become more **autonomous** and rely less on other Software Developers, DevOps and SysAdmins
+- Become better Data Scientists by becoming better **Software Developers**
+- Learn **methodologies, tools and processes** to ship models at scale
 
-# Technologies used
+Our training offers:
+- 24 hour of mostly hands-on training
+- Low (5:1) student to instructor ratio
+- Access to proprietary training materials
+- 2 lunch meals to feed your hungry neurons!
 
-[Git](https://git-scm.com/), conda/virtual environments, [Jupyter](https://jupyter.org/), [DVC](https://dvc.org/), [Google Cloud Platform](https://cloud.google.com/), [Luigi](https://luigi.readthedocs.io/en/stable/), [Docker](https://www.docker.com/), [Keras](https://keras.io/), [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving), ... 
+<p align="center">
+<link href="https://d2poexpdc5y9vj.cloudfront.net/public/css/eventzilla-widget-button.css" rel="stylesheet" />
+<a id="btnpreview" class="ewb-large ezilla-widget-button ezilla-blue" href="https://events.eventzilla.net/e/machine-learning-in-production-feb-2020-2138781722">Register Now - February 2020</a>
+</p>    
 
-# Intended audience
+- [Most Machine Learning projects never see the light of day](#ml_dont_ship)
+  * [Data Science is hard to bring to production](#ds_is_hard)
+  * [Get better at shipping Machine Learning models](#ship)
+- [Our training](#our-training)
+  * [Syllabus and schedule [Tentative]](#syllabus)
+  * [Instructors](#instructors)
+  * [Registration information](#registration)
+  * [Requirements (Important)](#requirements)
+  * [Past editions](#past-editions)
+ 
+# Most Machine Learning projects never see the light of day <a name="ml_dont_ship"></a>
 
-This course is designed for Data Scientists with some development experience who want to:
-- Become more independent from SW developers
-- Become better data scientists by becoming better SW engineers
-- Understand methodologies and processes to develop models at scale
-- Adopt techniques and processes to better work in multidisciplinary teams
+With the advent of internet-scale data gathering, powerful big data platforms and new computing paradigms, 
+most companies have embraced the Big Data revolution first and its sibling, the AI revolution, later.  As a result, 
+billions have been invested into tools, services and teams to build all-mighty, data-powered 
+features and services, in the hope of getting a competitive edge ahead of slower competitors. 
 
-# Teachers
+But alas, now that the dust is settling, a growing number of companies are starting to ponder: is 
+this huge investment paying off? Is my bright, PhD-holding, Data Science team delivering on its promises?
+
+The sad answer is that in many cases, our Return on Investment is not great. And it is not necessarily our fault.
+
+## Data Science is hard to bring to production <a name="ds_is_hard"></a>
+
+If you have been in the Data Science business for long enough, the following situation will likely sound familiar:
+
+* You or one of your peers have a promising idea on how to apply Machine Learning to solve a problem
+* You build a proof-of-concept, a prototype, using existing open-source libraries and lots of spaghetti code
+run from a Jupyter Notebook
+* Your Product Manager or Engineering Manager, loves the prototype and asks the Big Question: **when can we ship it?**
+
+At this point you realize that you are not quite sure about the answer... How will you deploy the model? 
+What infrastructure will it run on? The prototype kind of works, but will it generalize well to completely unseen data? 
+How will you re-train it with a larger dataset? How will you work with other peers to iterate on the current model?
+
+But you say something like "a couple of Sprints?" and hope for the best... only to realize 6 Sprints later that
+the model isn't yet life and everyone is starting to wonder whether the time investment is worth it.
+
+## Get better at shipping Machine Learning models <a name="ship"></a>
+
+Luckily at this point there are a number of people and companies (including us) who have been facing these problems
+for a few years. In our experience, the key elements for successful ML deployment are:
+
+1. Working with iteration and deployment in mind, from the start
+2. Using tools and practices from Software Development
+3. Knowing the basics of Data Engineering and DevOps to become more autonomous
+
+The course will consist of theory and practical hands-on sessions lead by our four instructors, with over 20 years of
+cumulative experience building and deploying Machine Learning models to demanding production environments at 
+top-tier internet companies like edreams, letgo or La Vanguardia.
+
+# Our training <a name="our-training"></a>
+
+## Syllabus and schedule [Tentative] <a name="syllabus"></a>
+
+*Warning*: We are trying to come up with the most relevant content so this syllabus is still work-in-progress,
+ which means it is susceptible to change. 
+
+* Part I: Reproducibility & best practices for iteration and speed		
+	* Conda, docker, makefiles
+	* git
+	* Python for pros 
+	* Testing
+	
+* Part II: Production-grade training & ETLs
+	* Airflow
+	* Google Cloud Platform: BigQuery, GC Storage
+
+* Part III: Production-grade deployment	
+	* Container-based deployments
+	* Kubernetes
+	
+![](./2020_schedule.png)
+	
+## Instructors <a name="instructors"></a>
 
 [**Bernat Garcia Larrosa**](https://www.linkedin.com/in/bernat-garcia-larrosa-9322869b/): Degree in mathematics and industrial engineer. Former data scientist at Diari ARA and LaVanguardia.com. Current Director of Big Data at yaencontre.
 
 [**Tristana Sondon**](https://www.linkedin.com/in/tristanasondon/):  PhD in Computational Physics. Former Academic Researcher, has been working for the past 5 years in Management consulting on areas of Data Science for
-banking, retail and ecommerce companies. Currently is Data Science Lead in the area of Revenue Managment and Dynamic Pricing.
+banking, retail and ecommerce companies. Currently is Data Science Lead in the area of Revenue Management and Dynamic Pricing.
 
 [**Aleix Ruiz de Villa**](https://www.linkedin.com/in/aleixr/): PhD in mathematics. Founder of the Barcelona Data Science and Machine Learning Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Ex Head of Data Science of LaVanguardia.com, SCRM (Lidl) and Onna. Currently he is a consultant specialising in causal inference projects.
 
 [**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at @WalmartLabs, Lead DS at Quantifind, both in the SF Bay Area. Current Head of Data Science at letgo, Barcelona.
 
 
-# Schedule, Dates and Location
+## Registration information <a name="registration"></a>
 
-![](schedule_v2.png)
+**Dates**:
+- Friday February 28th, 2020, 17-21h
+- Saturday February 29th, 2020, 10-19h
+- Friday March 6th, 2020, 17-21h
+- Saturday March 7th,2020, 10-19h
 
-The course (16h in total) will be held in Barcelona on:
-- Friday May 31st 17-21h
-- Saturday June 1st 10-14h
-- Friday June 7th 17-21h 
-- Saturday 8th 10-14h
+**Venue**: [Llibreria Laie](https://goo.gl/maps/bLJyseumEjuD5oaHA), C/ Pau Claris, 85, 08010 Barcelona
 
-**Venue**: [Llibreria Laie](https://goo.gl/maps/bLJyseumEjuD5oaHA), 
-Carrer de Pau Claris, 85, 08010 Barcelona
+**Registration Fee**: 750 euros per person
 
-# Requirements (Important)
+**Language**: English
 
-Students should have some experience with:
+**Contact**: bcn.mlinproduction@gmail.com
+
+<p align="center">
+<link href="https://d2poexpdc5y9vj.cloudfront.net/public/css/eventzilla-widget-button.css" rel="stylesheet" />
+<a id="btnpreview" class="ewb-large ezilla-widget-button ezilla-blue" href="https://events.eventzilla.net/e/machine-learning-in-production-feb-2020-2138781722">Register Now - February 2020</a>
+</p>   
+
+* Hurry up, registration **closes on January 22nd, 2020**!
+* The class size will be limited to 20 people.  While we will try to accommodate everyone interested, we also
+ reserve the right to select students based on their experience level, in order to maximize the chances of a 
+ successful learning experience (in groups with similar knowledge). 
+
+## Requirements (Important!) <a name="requirements"></a>
+
+Applicants should have some professional experience with:
 - Machine Learning 
 - Python
 - Unix command line tools 
 
-Students must bring a laptop with
+Students must bring a laptop equipped with:
 - Linux/MacOS 
 - You favorite IDE (examples: Vim, Sublime, PyCharm, Emacs...)
 - A configured environment as [explained here](env_setup/index.md)
@@ -94,23 +150,12 @@ Students must bring a laptop with
 **Important**: Please follow the [environment setup instructions](env_setup/index.md)
 prior to the beginning of the course to ensure a smooth learning experience.
 
-# Registration
+## Past editions <a name="past-editions"></a>
 
-Please register via [this form](https://forms.gle/LWkXdaLKnwDjxcpZ7)
+We organized a [June 2019 edition of this training](https://mlinproduction.github.io/2019/) in Barcelona, Spain. 
+**100% of our post-course survey respondents said they would recommend it to a friend**, and we have incorporated their suggestions
+on how to make 2020 edition even better!
 
-Registration closes on Sunday May 26th.
+![alt text](./arnau_pic.jpeg)
 
-The class size will be limited to 20 people. While we will try to accomodate everyone interested, we also reserve the right to select students based on their experience level, in order to maximize the chances of a succesful learning experience (in groups with similar knowledge). 
-
-*Price*: 350 euros per person
-
-BaDaSS members enjoy a 20% discount.
-
-*Language*: English
-
-*Contact*: bcn.mlinproduction@gmail.com
-
-## Collaborations
-
-In collaboration with [BaDaSS](https://badass.cat)
-
+![alt text](./bernat_pic.jpeg)
