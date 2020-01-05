@@ -1,5 +1,6 @@
 
 # Machine Learning in Production
+## 2nd Edition
 
 Do you feel like you or your company is not shipping Data Science projects 
 fast enough? Do your ML projects get stuck because there aren't available
