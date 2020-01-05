@@ -95,7 +95,7 @@ top-tier internet companies like edreams, letgo or La Vanguardia.
 	* Container-based deployments
 	* Kubernetes
 	
-![](./2020_schedule.png)
+![](2020/2020_schedule.png)
 	
 ## Instructors <a name="instructors"></a>
 
@@ -156,6 +156,6 @@ We organized a [June 2019 edition of this training](https://mlinproduction.githu
 **100% of our post-course survey respondents said they would recommend it to a friend**, and we have incorporated their suggestions
 on how to make 2020 edition even better!
 
-![alt text](./arnau_pic.jpeg)
+![alt text](2020/arnau_pic.jpeg)
 
-![alt text](./bernat_pic.jpeg)
+![alt text](2020/bernat_pic.jpeg)
