@@ -125,10 +125,10 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 ## Registration information <a name="registration"></a>
 
 **Dates**:
-- Friday February 7th, 2020, 17-21h
-- Saturday February 8th, 2020, 10-19h
-- Friday February 14th, 2020, 17-21h
-- Saturday February 15th,2020, 10-19h
+- Friday February 28th, 2020, 17-21h
+- Saturday February 29th, 2020, 10-19h
+- Friday March 6th, 2020, 17-21h
+- Saturday March 7th,2020, 10-19h
 
 **Venue**: [Llibreria Laie](https://goo.gl/maps/bLJyseumEjuD5oaHA), C/ Pau Claris, 85, 08010 Barcelona
 
