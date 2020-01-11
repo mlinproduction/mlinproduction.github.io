@@ -19,6 +19,16 @@ Our training offers:
 - Access to proprietary training materials
 - 2 lunch meals to feed your hungry neurons!
 
+> This course has provided me with a bunch of tools (kind of a Swiss Army knife) that have made my work day easier. 
+> Now I have the basics needed to build a proper scaffold on which to develop my ML projects, so that they can be
+> easily placed in production. It's a must!
+
+-- Marta Dies, Data Scientist, ML in Prod 2019 alumnus
+
+> The course was really useful to understand what tools are needed in order to put models into production
+
+-- Cristian Pachón, Data Scientist, ML in Prod 2019 alumnus
+
 <p align="center">
 <link href="https://d2poexpdc5y9vj.cloudfront.net/public/css/eventzilla-widget-button.css" rel="stylesheet" />
 <a id="btnpreview" class="ewb-large ezilla-widget-button ezilla-blue" href="https://events.eventzilla.net/e/machine-learning-in-production-feb-2020-2138781722">Register Now - February 2020</a>
