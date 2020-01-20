@@ -172,3 +172,9 @@ on how to make 2020 edition even better!
 ![alt text](./2020/arnau_pic.jpeg)
 
 ![alt text](./2020/bernat_pic.jpeg)
+
+<!-- After 5 seconds popup -->
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"bdb4d7657b21d1a128e2f8a79","lid":"94483dfcdb","uniqueMethods":true}) })</script>
+
+<!-- Fixed popup -->
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"bdb4d7657b21d1a128e2f8a79","lid":"94483dfcdb","uniqueMethods":true}) })</script>
