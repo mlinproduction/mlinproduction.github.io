@@ -112,7 +112,7 @@ Former Data Scientist at Diari ARA and LaVanguardia.com. Current Director of Big
 
 [**Aleix Ruiz de Villa**](https://www.linkedin.com/in/aleixr/): PhD in Mathematics. Founder of the Barcelona Data Science and Machine Learning 
 Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Former Head of Data Science at LaVanguardia.com, SCRM (Lidl) and Onna. 
-Currently a consultant specialising in causal inference projects.
+Currently Chief Data Science Officer at Flaps.io and machine learning/causal inference consultant.
 
 [**Tristana Sondon**](https://www.linkedin.com/in/tristanasondon/):  PhD in Computational Physics. A former Academic Researcher, she has been working 
 for the past 5 years in Management consulting on areas of Data Science for banking, retail and ecommerce companies.
