@@ -150,7 +150,7 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 
 ## Requirements (Important!) <a name="requirements"></a>
 
-Applicants should have some professional experience with:
+Applicants should have experience with:
 - Machine Learning 
 - Python
 - Unix command line tools 
