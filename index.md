@@ -132,7 +132,10 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 
 **Venue**: [Llibreria Laie](https://goo.gl/maps/bLJyseumEjuD5oaHA), C/ Pau Claris, 85, 08010 Barcelona
 
-**Registration Fee**: 750 euros per person
+**Registration Fees**: 
+* 750 euros per person
+* 50% off for Master's or PhD students
+* Reduced prices available for groups (contact us at bcn.mlinproduction@gmail.com)
 
 **Language**: English
 
@@ -146,14 +149,14 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 * Hurry up, registration **closes on February 21st, 2020**!
 * The class size will be limited to 20 people.  While we will try to accommodate everyone interested, we also
  reserve the right to select students based on their experience level, in order to maximize the chances of a 
- successful learning experience (in groups with similar knowledge). 
+ successful learning experience. 
 
 ## Requirements (Important!) <a name="requirements"></a>
 
-Applicants should have some professional experience with:
-- Machine Learning 
+Applicants should have some experience with:
+- Machine Learning
 - Python
-- Unix command line tools 
+- Unix command line tools
 
 Students must bring a laptop equipped with:
 - Linux/MacOS 
