@@ -112,7 +112,7 @@ Former Data Scientist at Diari ARA and LaVanguardia.com. Current Director of Big
 
 [**Aleix Ruiz de Villa**](https://www.linkedin.com/in/aleixr/): PhD in Mathematics. Founder of the Barcelona Data Science and Machine Learning 
 Meetup, cofounder of the Barcelona R Users Group and cofounder of BaDaSS. Former Head of Data Science at LaVanguardia.com, SCRM (Lidl) and Onna. 
-Currently a consultant specialising in causal inference projects.
+Currently Chief Data Science Officer at Flaps.io and machine learning/causal inference consultant.
 
 [**Tristana Sondon**](https://www.linkedin.com/in/tristanasondon/):  PhD in Computational Physics. A former Academic Researcher, she has been working 
 for the past 5 years in Management consulting on areas of Data Science for banking, retail and ecommerce companies.
@@ -154,7 +154,7 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 ## Requirements (Important!) <a name="requirements"></a>
 
 Applicants should have some experience with:
-- Machine Learning
+- Machine Learning 
 - Python
 - Unix command line tools
 
@@ -175,3 +175,5 @@ on how to make 2020 edition even better!
 ![alt text](./2020/arnau_pic.jpeg)
 
 ![alt text](./2020/bernat_pic.jpeg)
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"bdb4d7657b21d1a128e2f8a79","lid":"94483dfcdb","uniqueMethods":true}) })</script>
