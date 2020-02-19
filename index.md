@@ -121,6 +121,11 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 [**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at 
 @WalmartLabs, Lead Data Scientist at Quantifind, both in the San Francisco Bay Area, CA. Current Head of Data Science at letgo, Barcelona.
 
+## Capstone and more info!
+
+If you want to have a look at the capstone we are going to work with, check out this [github repo](https://github.com/mlinproduction/capstone). 
+
+If you are curios and want to know more about what we are going to talk about, have a look at this [Medium Post](https://medium.com/@bcn.mlinproduction/machine-learning-in-production-9-best-practices-to-make-you-a-more-effective-data-scientist-22daf3c3492a).
 
 ## Registration information <a name="registration"></a>
 
