@@ -38,6 +38,7 @@ Our training offers:
 - [Our training](#our-training)
   * [Syllabus and schedule [Tentative]](#syllabus)
   * [Instructors](#instructors)
+  * [Capstone project](#capstone)
   * [Registration information](#registration)
   * [Requirements (Important)](#requirements)
   * [Past editions](#past-editions)
@@ -121,7 +122,7 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 [**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at 
 @WalmartLabs, Lead Data Scientist at Quantifind, both in the San Francisco Bay Area, CA. Current Head of Data Science at letgo, Barcelona.
 
-## Capstone and more info!
+## Capstone project and more info! <a name="capstone"></a>
 
 If you want to have a look at the capstone we are going to work with, check out this [github repo](https://github.com/mlinproduction/capstone). 
 
@@ -151,7 +152,7 @@ If you are curios and want to know more about what we are going to talk about, h
 <a id="btnpreview" class="ewb-large ezilla-widget-button ezilla-blue" href="https://events.eventzilla.net/e/machine-learning-in-production-feb-2020-2138781722">Register Now - February 2020</a>
 </p>   
 
-* Hurry up, registration **closes on February 21st, 2020**!
+* Hurry up, registration **closes on February 24th, 2020**!
 * The class size will be limited to 20 people.  While we will try to accommodate everyone interested, we also
  reserve the right to select students based on their experience level, in order to maximize the chances of a 
  successful learning experience. 
