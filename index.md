@@ -85,7 +85,7 @@ top-tier internet companies like edreams, letgo or La Vanguardia.
 
 # Our training <a name="our-training"></a>
 
-## Syllabus and schedule [Tentative] <a name="syllabus"></a>
+## Syllabus and schedule <a name="syllabus"></a>
 
 *Warning*: We are trying to come up with the most relevant content so this syllabus is still work-in-progress,
  which means it is susceptible to change. 
@@ -104,7 +104,7 @@ top-tier internet companies like edreams, letgo or La Vanguardia.
 	* Container-based deployments
 	* Kubernetes
 	
-![](./2020/2020_schedule.png)
+![](./2020/schedule_2020.png)
 	
 ## Instructors <a name="instructors"></a>
 
