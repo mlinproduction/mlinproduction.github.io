@@ -38,6 +38,7 @@ Our training offers:
 - [Our training](#our-training)
   * [Syllabus and schedule [Tentative]](#syllabus)
   * [Instructors](#instructors)
+  * [Capstone project](#capstone)
   * [Registration information](#registration)
   * [Requirements (Important)](#requirements)
   * [Past editions](#past-editions)
@@ -84,7 +85,7 @@ top-tier internet companies like edreams, letgo or La Vanguardia.
 
 # Our training <a name="our-training"></a>
 
-## Syllabus and schedule [Tentative] <a name="syllabus"></a>
+## Syllabus and schedule <a name="syllabus"></a>
 
 *Warning*: We are trying to come up with the most relevant content so this syllabus is still work-in-progress,
  which means it is susceptible to change. 
@@ -103,7 +104,7 @@ top-tier internet companies like edreams, letgo or La Vanguardia.
 	* Container-based deployments
 	* Kubernetes
 	
-![](./2020/2020_schedule.png)
+![](./2020/schedule_2020.png)
 	
 ## Instructors <a name="instructors"></a>
 
@@ -121,6 +122,11 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 [**Arnau Tibau Puig**](https://www.linkedin.com/in/atibaup/): PhD in Electrical Engineering and flamenco lover. Former Principal Engineer at 
 @WalmartLabs, Lead Data Scientist at Quantifind, both in the San Francisco Bay Area, CA. Current Head of Data Science at letgo, Barcelona.
 
+## Capstone project and more info! <a name="capstone"></a>
+
+If you want to have a look at the capstone we are going to work with, check out this [github repo](https://github.com/mlinproduction/capstone). 
+
+If you are curios and want to know more about what we are going to talk about, have a look at this [Medium Post](https://medium.com/@bcn.mlinproduction/machine-learning-in-production-9-best-practices-to-make-you-a-more-effective-data-scientist-22daf3c3492a).
 
 ## Registration information <a name="registration"></a>
 
@@ -146,7 +152,7 @@ for the past 5 years in Management consulting on areas of Data Science for banki
 <a id="btnpreview" class="ewb-large ezilla-widget-button ezilla-blue" href="https://events.eventzilla.net/e/machine-learning-in-production-feb-2020-2138781722">Register Now - February 2020</a>
 </p>   
 
-* Hurry up, registration **closes on February 21st, 2020**!
+* Hurry up, registration **closes on February 24th, 2020**!
 * The class size will be limited to 20 people.  While we will try to accommodate everyone interested, we also
  reserve the right to select students based on their experience level, in order to maximize the chances of a 
  successful learning experience. 
